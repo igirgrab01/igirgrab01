@@ -1,33 +1,35 @@
-<h1 align="center">🚀 Profitable Trading Algorithms | Forex · Stock · Crypto</h1>
+<h1 align="center"> Profitable Trading Algorithms | Forex · Stock · Crypto</h1>
 <p align="center">
   <b>Algorithmic Trading · Quantitative Finance · AI-Powered Automation</b><br>
-  <i>Building intelligent systems that trade smarter and faster.</i>
+  <i>❤ Actually, trading is my live and love ❤</i>
 </p>
 
 ---
 
-## 💡 About Me
+## 💡 Why i am here?
 
-I develop **profitable algorithmic trading systems** powered by **data science**, **machine learning**, and **quantitative modeling**.  
-I specialize in **Forex**, **Stocks**, and **Crypto** — building systems that analyze, optimize, and execute trades automatically.
+To be honest, my background **isn't** software development. However, I can say I'm a **Skilled Trading Developer**.
+This is because I have **7+ practical experience** in the forex, stock, and cryptocurrency markets. My goal is simple: to build **profitable trading systems** that not only work on paper, but also in the real world.
+For years, I've developed, tested, and optimized trading strategies using Python on various platforms, including **MetaTrader, Binance, Interactive Brokers, and TradingView**. Now, I'm leveraging this experience on **Upwork** to support traders, investors, and startups.
+If you're interested in developing profitable trading algorithms, I'd love to work with you.
 
 ---
 
 ## 📈 What I Do
 
-### 🧠 1. Profitable Trading Algorithms  
+### 1. Profitable Trading Algorithms  
 - Multi-asset strategies (Forex · Stocks · Crypto)  
 - Momentum, mean-reversion, and statistical arbitrage models  
 - Machine learning signal generation  
 - Advanced risk & money management systems  
 
-### ⚙️ 2. Trading Platform Development  
+### 2. Trading Platform Development  
 - Backend: Django · FastAPI · Node.js  
 - Frontend: Streamlit · Next.js  
 - WebSocket live data feeds · Trade execution APIs  
 - Real-time dashboards & performance tracking  
 
-### 📊 3. Backtesting & Optimization  
+### 3. Backtesting & Optimization  
 - QuantConnect · Backtrader · Zipline  
 - Grid Search · Genetic Algorithms · Bayesian Optimization  
 - Data analysis with Pandas, NumPy, Matplotlib  
@@ -37,59 +39,81 @@ I specialize in **Forex**, **Stocks**, and **Crypto** — building systems that 
 
 <h2 align="center">🛠️ Trading-Focused Tech Stack</h2>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center" style="border-spacing: 10px;">
-
+<table align="center">
   <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br>Python</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=streamlit" width="48" height="48"/><br>Streamlit</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48"/><br>Django</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" height="48"/><br>Flask</td>
+    <th colspan="7">💻 Programming & Frameworks</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>Node.js</td>
+    <td>Next.js</td>
+    <td>Streamlit</td>
+    <td>Django</td>
+    <td>FastAPI</td>
+    <td>Flask</td>
   </tr>
 
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48"/><br>NumPy</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48"/><br>Matplotlib</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48"/><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br>PyTorch</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
+    <th colspan="7">📊 Data Science & Machine Learning</th>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>NumPy</td>
+    <td>Matplotlib</td>
+    <td>Scikit-Learn</td>
+    <td>PyTorch</td>
+    <td>TensorFlow</td>
+    <td>Statsmodels</td>
   </tr>
 
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=binance" width="48" height="48"/><br>Binance API</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tradingview" width="48" height="48"/><br>TradingView</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=meta" width="48" height="48"/><br>MetaTrader 4/5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=alpaca" width="48" height="48"/><br>Alpaca API</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=oanda" width="48" height="48"/><br>OANDA API</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ibm" width="48" height="48"/><br>IBKR API</td>
+    <th colspan="7">💹 Trading & Brokerage APIs</th>
+  </tr>
+  <tr>
+    <td>Binance API</td>
+    <td>TradingView</td>
+    <td>MetaTrader 4/5</td>
+    <td>Alpaca API</td>
+    <td>OANDA API</td>
+    <td>IBKR API</td>
+    <td>Bybit API</td>
   </tr>
 
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br>AWS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code</td>
+    <th colspan="7">☁️ Databases & DevOps</th>
   </tr>
-
+  <tr>
+    <td>PostgreSQL</td>
+    <td>Firebase</td>
+    <td>Docker</td>
+    <td>AWS</td>
+    <td>GitHub</td>
+    <td>Git</td>
+    <td>VS Code</td>
+  </tr>
 </table>
-</div>
 
----
-
-## 🔥 Specialties  
-
-- 🤖 **AI-Powered Trading Bots**  
-- 💹 **Automated Forex & Crypto Systems**  
-- 📊 **Backtesting & Optimization Engines**  
-- 🧮 **Quantitative Research & Statistical Models**  
-- 🔗 **Broker & Exchange API Integration**  
-- 🧠 **Data-Driven Strategy Design**  
+<style>
+table {
+  border-collapse: collapse;
+  font-size: 15px;
+  text-align: center;
+  margin: 20px auto;
+  border: 1px solid #444;
+}
+th {
+  background-color: #111;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+}
+td {
+  border: 1px solid #555;
+  padding: 8px 12px;
+  background-color: #1e1e1e;
+  color: #ddd;
+}
+</style>
 
 ---
 
