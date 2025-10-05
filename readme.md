@@ -39,81 +39,22 @@ If you're interested in developing profitable trading algorithms, I'd love to wo
 
 <h2 align="center">🛠️ Trading-Focused Tech Stack</h2>
 
-<table align="center">
-  <tr>
-    <th colspan="7">💻 Programming & Frameworks</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Node.js</td>
-    <td>Next.js</td>
-    <td>Streamlit</td>
-    <td>Django</td>
-    <td>FastAPI</td>
-    <td>Flask</td>
-  </tr>
+## 💻 Programming & Frameworks
+| Python | Node.js | Next.js | Streamlit | Django | FastAPI | Flask |
+|:------:|:--------:|:--------:|:-----------:|:--------:|:--------:|:------:|
 
-  <tr>
-    <th colspan="7">📊 Data Science & Machine Learning</th>
-  </tr>
-  <tr>
-    <td>Pandas</td>
-    <td>NumPy</td>
-    <td>Matplotlib</td>
-    <td>Scikit-Learn</td>
-    <td>PyTorch</td>
-    <td>TensorFlow</td>
-    <td>Statsmodels</td>
-  </tr>
+## 📊 Data Science & Machine Learning
+| Pandas | NumPy | Matplotlib | Scikit-Learn | PyTorch | TensorFlow | Statsmodels |
+|:------:|:------:|:------------:|:--------------:|:--------:|:-------------:|:-------------:|
 
-  <tr>
-    <th colspan="7">💹 Trading & Brokerage APIs</th>
-  </tr>
-  <tr>
-    <td>Binance API</td>
-    <td>TradingView</td>
-    <td>MetaTrader 4/5</td>
-    <td>Alpaca API</td>
-    <td>OANDA API</td>
-    <td>IBKR API</td>
-    <td>Bybit API</td>
-  </tr>
+## 💹 Trading & Brokerage APIs
+| Binance API | TradingView | MetaTrader 4/5 | Alpaca API | OANDA API | IBKR API | Bybit API |
+|:------------:|:-------------:|:----------------:|:-----------:|:-----------:|:-----------:|:-----------:|
 
-  <tr>
-    <th colspan="7">☁️ Databases & DevOps</th>
-  </tr>
-  <tr>
-    <td>PostgreSQL</td>
-    <td>Firebase</td>
-    <td>Docker</td>
-    <td>AWS</td>
-    <td>GitHub</td>
-    <td>Git</td>
-    <td>VS Code</td>
-  </tr>
-</table>
+## ☁️ Databases & DevOps
+| PostgreSQL | Firebase | Docker | AWS | GitHub | Git | VS Code |
+|:------------:|:---------:|:-------:|:----:|:--------:|:----:|:---------:|
 
-<style>
-table {
-  border-collapse: collapse;
-  font-size: 15px;
-  text-align: center;
-  margin: 20px auto;
-  border: 1px solid #444;
-}
-th {
-  background-color: #111;
-  color: #fff;
-  padding: 10px;
-  font-size: 16px;
-}
-td {
-  border: 1px solid #555;
-  padding: 8px 12px;
-  background-color: #1e1e1e;
-  color: #ddd;
-}
-</style>
 
 ---
 
